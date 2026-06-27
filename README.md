@@ -1,67 +1,83 @@
 # 👋 Hi there, I'm Ankitha Reddy!
 
-### 💻 Software Engineer | Java Full Stack Developer | AI & Machine Learning Enthusiast
+### 💻 Software Engineer | Java Backend Developer | Cloud & AI Enthusiast
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate Software Engineer with a strong foundation in **Java Full Stack Development** and **Artificial Intelligence**. I enjoy building scalable web applications, intelligent systems, and solving real-world problems using modern technologies.
+I'm a Software Engineer passionate about designing scalable backend applications, cloud-native solutions, and AI-powered systems. I enjoy solving real-world problems using Java, Spring Boot, Microservices, and modern cloud technologies.
 
-* 💼 Aspiring Software Engineer
-* ☕ Skilled in Java, Spring Boot, Python & SQL
-* 🤖 Interested in AI, Machine Learning, NLP & Generative AI
-* 🌱 Currently exploring Cloud, Docker and Microservices
-* 🏆 Built an **AI-Powered Candidate Ranking System** for the INDIA.RUNS Hackathon
-* 💡 Always learning and building impactful projects
+* 💼 Software Engineer specializing in Java Backend Development
+* ☕ Experienced with Java, Spring Boot, REST APIs & Microservices
+* ☁️ Cloud Enthusiast (Microsoft Azure & AWS)
+* 🤖 Interested in Artificial Intelligence, Machine Learning & Generative AI
+* 🐳 Exploring Docker, Kubernetes & CI/CD
+* 🚀 Passionate about building scalable and secure applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
 * Java
 * Python
 * SQL
 * JavaScript
+* C
 
-### Backend
+### ⚙️ Backend Development
 
 * Spring Boot
 * Spring MVC
-* Hibernate
+* Spring Security
 * REST APIs
+* Microservices
+* Hibernate
+* JPA
 * JDBC
 
-### Frontend
+### 🎨 Frontend
 
 * HTML5
 * CSS3
-* Bootstrap
 * Angular
+* Bootstrap
 
-### Database
+### ☁️ Cloud & DevOps
+
+* Microsoft Azure
+* AWS
+* Docker
+* Kubernetes
+* Jenkins
+* GitHub Actions
+* CI/CD
+* Linux
+
+### 🗄️ Database
 
 * MySQL
+* SQL
 
-### AI & Machine Learning
+### 🤖 AI & Machine Learning
 
 * Scikit-learn
 * Pandas
 * NumPy
+* Streamlit
 * Sentence Transformers
 * FAISS
-* Streamlit
 
-### Tools & Platforms
+### 🛠️ Tools
 
 * Git
 * GitHub
-* Docker
-* Eclipse
-* VS Code
+* Maven
 * Postman
+* VS Code
+* Eclipse
 
 ---
 
@@ -69,51 +85,74 @@ I'm a passionate Software Engineer with a strong foundation in **Java Full Stack
 
 ### 🤖 AI-Powered Candidate Ranking System
 
-An intelligent resume ranking platform using NLP, semantic search, and machine learning to match candidates with job descriptions.
+An intelligent recruitment platform that ranks candidates using NLP, semantic search, embeddings, and machine learning.
 
-**Technologies:** Python, Streamlit, FAISS, Sentence Transformers, Scikit-learn
+**Tech Stack:** Python, Streamlit, Sentence Transformers, FAISS, Scikit-learn
+
+🔗 Repository:
+https://github.com/reddyAnkitha/india-runs-ai-ranking
 
 ---
 
 ### 🏢 HRMS & Payroll Management System
 
-A complete Human Resource Management System featuring employee management, attendance, payroll, and leave management.
+Developed a scalable HRMS application with employee management, payroll processing, attendance tracking, and automated workflows.
 
-**Technologies:** Java, Spring Boot, MySQL, HTML, CSS
+**Tech Stack:** Java, Spring Boot, MySQL, REST APIs, GitHub Actions
 
 ---
 
-### 🍔 Online Food Delivery System
+### 🛡️ Phishing Website Detection System
 
-A full-stack web application for food ordering, customer management, and order tracking.
+Built a machine learning model achieving high phishing detection accuracy using feature engineering and data preprocessing.
+
+**Tech Stack:** Python, Machine Learning, Pandas
+
+---
+
+## 🏆 Certifications
+
+* Microsoft Certified: Azure Fundamentals (AZ-900)
+* Microsoft Certified: Developing Solutions for Microsoft Azure (AZ-204)
+* Google AI Agents Intensive Course
+* Java Full Stack Development
+* Database Management
 
 ---
 
 ## 🌱 Currently Learning
 
 * Spring Security
-* Microservices
-* Docker
 * Kubernetes
-* AWS & Google Cloud
+* System Design
+* Cloud Architecture
 * Generative AI
+* Distributed Systems
 
 ---
 
 ## 🎯 Career Objective
 
-Seeking opportunities as a **Software Engineer**, **Java Full Stack Developer**, or **AI/ML Engineer**, where I can contribute to innovative projects while continuously enhancing my technical skills.
+Seeking opportunities as a **Software Engineer**, **Java Backend Developer**, **Java Full Stack Developer**, or **Cloud Engineer**, where I can contribute to scalable backend systems, cloud-native applications, and AI-driven solutions.
 
 ---
+## 📊 GitHub Stats
 
-## 📈 GitHub Stats
+### 📈 GitHub Statistics
 
-* 📊 Public Repositories
-* 🔥 Contribution Streak
-* 💻 Most Used Languages
-* 🚀 Active Open Source Projects
+![Ankitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reddyAnkitha&show_icons=true&theme=tokyonight&hide_border=true)
 
-*(You can later add GitHub Stats cards here.)*
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=reddyAnkitha&theme=tokyonight&hide_border=true)
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reddyAnkitha&layout=compact&theme=tokyonight&hide_border=true)
+
+## 📈 Contribution Graph
+
+[![Ankitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reddyAnkitha&theme=tokyo-night)](https://github.com/reddyAnkitha)
 
 ---
 
@@ -121,10 +160,10 @@ Seeking opportunities as a **Software Engineer**, **Java Full Stack Developer**,
 
 * 💼 LinkedIn: https://linkedin.com/in/your-linkedin
 * 💻 GitHub: https://github.com/reddyAnkitha
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 📧 Email: [ankithaanki661@gmail.com](mailto:ankithaanki661@gmail.com)
 
 ---
 
-> 💬 *I enjoy building software that solves real-world problems. I'm always open to collaborating on Java, AI, and Full Stack development projects.*
+> 💬 *"Code. Learn. Build. Repeat."*
 
-### ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
