@@ -138,15 +138,9 @@ Seeking opportunities as a **Software Engineer**, **Java Backend Developer**, **
 ---
 ## 📊 GitHub Stats
 
-### 📈 GitHub Statistics
-
 ![Ankitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reddyAnkitha&show_icons=true&theme=tokyonight&hide_border=true)
 
-### 🔥 GitHub Streak
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=reddyAnkitha&theme=tokyonight&hide_border=true)
-
-### 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reddyAnkitha&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -154,6 +148,9 @@ Seeking opportunities as a **Software Engineer**, **Java Backend Developer**, **
 
 [![Ankitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reddyAnkitha&theme=tokyo-night)](https://github.com/reddyAnkitha)
 
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=reddyAnkitha&color=blue)
 ---
 
 ## 🌐 Connect With Me
