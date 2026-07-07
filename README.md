@@ -133,7 +133,8 @@ I enjoy building scalable backend systems, cloud-native applications, and AI-pow
 <img src="https://skillicons.dev/icons?i=vscode"/>
 
 <img src="https://skillicons.dev/icons?i=eclipse"/>
-<img src="https://skillicons.dev/icons?i=jupiter"/>
+
+<img src="https://skillicons.dev/icons?i=jupyter notebook"/>
 
 
 </p>
