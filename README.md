@@ -49,6 +49,14 @@ I enjoy building scalable backend systems, cloud-native applications, and AI-pow
 
 ✅ Hands-on experience with Spring Boot, Java, Python, Cloud & Generative AI
 
+# 🚀 Currently Working On
+
+- Building AI-powered applications using Generative AI and RAG
+- Exploring Kubernetes, GKE, and Cloud-Native Architecture
+- Learning Microservices and System Design
+- Completing Google Cloud Skills Boost Labs
+- Developing scalable Spring Boot backend applications
+
 # 🛠 Tech Stack
 
 ## 💻 Languages
@@ -237,6 +245,15 @@ Python • Pandas • Matplotlib • Data Analysis
 
 ---
 
+
+# 💻 Coding Profiles
+
+- LeetCode: https://leetcode.com/your-profile
+- HackerRank: https://hackerrank.com/your-profile
+- GeeksforGeeks: https://geeksforgeeks.org/user/your-profile
+
+---
+
 # 🎯 Career Objective
 
 Passionate Software Engineer seeking opportunities as a
@@ -264,23 +281,14 @@ where I can contribute to building scalable applications while continuously lear
 
 # 📊 GitHub Stats
 
-<p align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reddyAnkitha&show_icons=true&theme=tokyonight)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reddyAnkitha&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddyAnkitha&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reddyAnkitha&layout=compact&theme=tokyonight)
 
 ---
 
 # 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=reddyAnkitha&theme=tokyonight&hide_border=true"/>
-
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reddyAnkitha&theme=tokyonight)
 
 ---
 
