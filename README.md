@@ -109,6 +109,25 @@ I enjoy building scalable backend systems, cloud-native applications, and AI-pow
 
 ---
 
+## 🏛️ CivicSense AI
+
+An AI-powered civic engagement platform that helps citizens report issues, access public services, and interact with local governance using intelligent automation and natural language processing.
+
+### ✨ Features
+
+- AI-Powered Civic Assistance
+- Intelligent Issue Categorization
+- Public Service Information Retrieval
+- Citizen-Government Engagement
+- NLP-Based Query Processing
+- Scalable Cloud Architecture
+
+**Tech Stack**
+
+`Python` • `Generative AI` • `NLP` • `REST APIs` • `Cloud Technologies`
+
+🔗 **Repository**
+https://github.com/reddyAnkitha/civicsense-ai
 ## 🤖 AI / Machine Learning
 
 - Machine Learning
