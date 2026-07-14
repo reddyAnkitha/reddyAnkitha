@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ankitha Reddy</h1>
 
 <h3 align="center">
-Software Engineer | Java Backend Developer | Cloud & AI Enthusiast
+Software Engineer | Java Backend Developer | Spring Boot | Cloud Engineer | Generative AI Enthusiast
 </h3>
 
 <p align="center">
