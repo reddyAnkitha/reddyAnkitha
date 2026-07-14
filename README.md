@@ -52,87 +52,77 @@ I enjoy building scalable backend systems, cloud-native applications, and AI-pow
 # 🛠 Tech Stack
 
 ## 💻 Languages
-
 <p>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
-
----
 
 ## ⚙ Backend
-
 <p>
-
-<img src="https://skillicons.dev/icons?i=spring"/>
-
-<img src="https://skillicons.dev/icons?i=hibernate"/>
-
-<img src="https://skillicons.dev/icons?i=maven"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
-
+  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=hibernate" />
+  <img src="https://skillicons.dev/icons?i=maven" />
+  <img src="https://skillicons.dev/icons?i=postman" />
 </p>
-
----
 
 ## 🎨 Frontend
-
 <p>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=angular"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=angular" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
 </p>
-
----
 
 ## ☁️ Cloud & DevOps
-
 <p>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-<img src="https://skillicons.dev/icons?i=azure"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=kubernetes"/>
-
-<img src="https://skillicons.dev/icons?i=jenkins"/>
-
-<img src="https://skillicons.dev/icons?i=githubactions"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=azure" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
+  <img src="https://skillicons.dev/icons?i=jenkins" />
+  <img src="https://skillicons.dev/icons?i=githubactions" />
+  <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
----
+## 🤖 AI / Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge" />
+</p>
+
+## ☁️ Google Cloud (Currently Working With)
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp" />
+</p>
+
+- Google Kubernetes Engine (GKE)
+- BigQuery
+- Cloud Shell
+- Security Command Center (SCC)
+- Knowledge Catalog
+- Data Catalog
+- Cloud Monitoring
+- Cloud Logging
+- IAM
+- VPC Networking
+- Usage Metering
+- AI Agents & Generative AI on Google Cloud
 
 ## 🛠 Tools
-
 <p>
-  <img src="https://skillicons.dev/icons?i=git"/>
-  <img src="https://skillicons.dev/icons?i=github"/>
-  <img src="https://skillicons.dev/icons?i=vscode"/>
-  <img src="https://skillicons.dev/icons?i=eclipse"/>
-  <img src="https://skillicons.dev/icons?i=jupyter"/>
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=eclipse" />
+  <img src="https://skillicons.dev/icons?i=jupyter" />
 </p>
-
 ---
 
 # 🚀 Featured Projects
