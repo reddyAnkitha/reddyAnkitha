@@ -35,6 +35,20 @@ I enjoy building scalable backend systems, cloud-native applications, and AI-pow
 
 ---
 
+## 🎯 Key Highlights
+
+✅ Microsoft Certified Azure Developer (AZ-204)
+
+✅ Microsoft Certified Azure Fundamentals (AZ-900)
+
+✅ Built AI-powered Candidate Ranking Platform
+
+✅ Developed Enterprise HRMS & Payroll Management System
+
+✅ Built CivicSense AI for Citizen Service Automation
+
+✅ Hands-on experience with Spring Boot, Java, Python, Cloud & Generative AI
+
 # 🛠 Tech Stack
 
 ## 💻 Languages
@@ -109,6 +123,21 @@ I enjoy building scalable backend systems, cloud-native applications, and AI-pow
 
 ---
 
+## 🛠 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git"/>
+  <img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=vscode"/>
+  <img src="https://skillicons.dev/icons?i=eclipse"/>
+  <img src="https://skillicons.dev/icons?i=jupyter"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+
 ## 🏛️ CivicSense AI
 
 An AI-powered civic engagement platform that helps citizens report issues, access public services, and interact with local governance using intelligent automation and natural language processing.
@@ -141,19 +170,6 @@ https://github.com/reddyAnkitha/civicsense-ai
 
 ---
 
-## 🛠 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git"/>
-  <img src="https://skillicons.dev/icons?i=github"/>
-  <img src="https://skillicons.dev/icons?i=vscode"/>
-  <img src="https://skillicons.dev/icons?i=eclipse"/>
-  <img src="https://skillicons.dev/icons?i=jupyter"/>
-</p>
-
----
-
-# 🚀 Featured Projects
 
 ## 🤖 AI-Powered Candidate Ranking System
 
