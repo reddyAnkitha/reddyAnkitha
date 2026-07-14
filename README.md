@@ -230,6 +230,16 @@ Performed Exploratory Data Analysis (EDA) to identify trends affecting student a
 Python • Pandas • Matplotlib • Data Analysis
 
 ---
+# 🏅 Achievements
+
+- Microsoft Certified Azure Developer Associate (AZ-204)
+- Microsoft Certified Azure Fundamentals (AZ-900)
+- Built CivicSense AI for citizen service automation
+- Developed AI-Powered Candidate Ranking Platform
+- Developed HRMS & Payroll Management System
+- Completed multiple Google Cloud hands-on labs
+
+---
 
 # 🏆 Certifications
 
